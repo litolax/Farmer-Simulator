@@ -1,0 +1,62 @@
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.exe
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.deps.json
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.runtimeconfig.json
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.runtimeconfig.dev.json
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\ref\Farmer Simulator.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Farmer Simulator.pdb
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.csprojAssemblyReference.cache
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.AssemblyInfoInputs.cache
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.AssemblyInfo.cs
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.csproj.CoreCompileInputs.cache
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\ref\Farmer Simulator.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.pdb
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.genruntimeconfig.cache
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\DnsClient.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\SharpCompress.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\obj\Debug\net5.0\Farmer Simulator.csproj.CopyComplete
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\MongoDB.Entities.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\System.Text.Json.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+D:\C#\Farmer-Simulator\Farmer Simulator\Farmer Simulator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
